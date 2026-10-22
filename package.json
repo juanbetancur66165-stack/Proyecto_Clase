@@ -13,6 +13,7 @@
   "type": "commonjs",
   "devDependencies": {
     "@tailwindcss/cli": "^4.3.3",
+    "html-validate": "^11.17.0",
     "tailwindcss": "^4.3.3"
   }
 }
