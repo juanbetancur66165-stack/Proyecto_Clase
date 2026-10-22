@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tailwindcss -i ./src/entrada.css -o ./css/tailwind.css --watch",
-    "build": "tailwindcss -i ./src/entrada.css -o ./css/tailwind.css",
+    "dev": "tailwindcss -i ./css/entrada.css -o ./css/tailwind.css --watch",
+    "build": "tailwindcss -i ./css/entrada.css -o ./css/tailwind.css",
     "validar": "html-validate index.html"
   },
   "keywords": [],
