@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "tailwindcss -i ./css/entrada.css -o ./css/tailwind.css --watch",
     "build": "tailwindcss -i ./css/entrada.css -o ./css/tailwind.css",
-    "validar": "html-validate index.html"
+    "validar": "html-validate \"*.html\""
   },
   "keywords": [],
   "type": "commonjs",
